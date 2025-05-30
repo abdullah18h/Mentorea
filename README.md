@@ -1,4 +1,3 @@
-# Mentorea
 ---
 title: Mentorea Recommendation
 emoji: 📈
